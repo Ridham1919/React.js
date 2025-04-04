@@ -6,6 +6,7 @@ const First = () => {
             <h1>hollo world</h1>   
         </>
     );
+    
 };
 
 export default First;
