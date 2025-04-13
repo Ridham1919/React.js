@@ -7,7 +7,7 @@ const Header = () => {
         <div className="navbar-inner">
           <div className="all-hearder-item">
             <div className="img">
-              <img src="../public/asets/logo.1.jpg" alt style={{width: 100, height: 'auto'}} />
+              <img src="asets/logo.1.jpg" alt style={{width: 100, height: 'auto'}} />
             </div>
             <ul>
               <li>
