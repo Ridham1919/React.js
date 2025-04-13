@@ -11,7 +11,6 @@ const Category = () => {
                                 <div className="img">
                                     <img src="./asets/category-1.jpg" alt />
                                 </div>
-                                
                                 <div className="text">
                                     <span>Electronics</span>
                                 </div>
