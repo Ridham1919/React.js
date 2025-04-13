@@ -22,6 +22,7 @@ const Home = () => {
                     <div className="all-category-item">
                         <div className="category-item">
                            <Category/>
+                           
                         </div>
                     </div>
                 </div>
