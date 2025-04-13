@@ -16,8 +16,18 @@ const Home = () => {
   {/*-------------------------------------------------------- end main banner block   ----------------------------------------------*/}
        <First_title/>
   {/*-------------------------------------------------------- start category block  ------------------------------------------------*/}
-       <Category/>
-      
+         <div className="main-category">
+            <div className="category-container">
+                <div className="main-category-inner">
+                    <div className="all-category-item">
+                        <div className="category-item">
+                           <Category/>
+                        </div>
+                    </div>
+                </div>
+             </div>
+         </div>
+
        </>
     );
 };
