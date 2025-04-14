@@ -1,6 +1,6 @@
 import React from "react";
 
-const Category = () => {
+const Category = (props) => {
     return (
         <div className="category-item-inner">
             <div className="img">
