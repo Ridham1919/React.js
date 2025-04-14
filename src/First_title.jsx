@@ -8,7 +8,6 @@ const First_title = () => {
                       <div className="main-category-inner">
                           <div className="title">
                                <strong>shop by category</strong>
-                               
                           </div>
                      </div>
                </div>
