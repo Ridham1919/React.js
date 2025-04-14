@@ -16,7 +16,7 @@ const Home = () => {
   {/*-------------------------------------------------------- end main banner block   ----------------------------------------------*/}
        <First_title/>
   {/*-------------------------------------------------------- start category block  ------------------------------------------------*/}
-         <div className="main-category">
+         <div id='category' className="main-category">
             <div className="category-container">
                 <div className="main-category-inner">
                     <div className="all-category-item">

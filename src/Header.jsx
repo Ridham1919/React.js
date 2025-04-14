@@ -14,7 +14,7 @@ const Header = () => {
                 <a href="#">home</a>
               </li>
               <li>
-                <a href="#">shop <i style={{color: '#333', marginTop: 12}} className="fa-solid fa-angle-down fa-xs" /></a>
+                <a href="#category">shop <i style={{color: '#333', marginTop: 12}} className="fa-solid fa-angle-down fa-xs" /></a>
                 <ul className="mega-menu">
                   <li>
                     <h4>fashion</h4>
