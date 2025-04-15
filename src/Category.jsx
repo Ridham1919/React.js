@@ -1,15 +1,21 @@
 import React from "react";
+import Categoryiteam from "./Categoryiteam";
 
-const Category = (Props) => {
+const Category = () => {
     return (
-        <div className="category-item-inner">
-            <div className="img">
-                <img src="./asets/category-1.jpg" alt />
-            </div>
-            <div className="text">
-                <span>Electronics</span>
+        <div className="main-category">
+            <div className="category-container">
+                <div className="main-category-inner">
+                    <div className="all-category-item">
+                        <Categoryiteam name="Electronics" img="asets/category-1.jpg" />
+                        <Categoryiteam name="Home" img="asets/category-1.jpg" />
+                        <Categoryiteam name="Shop" img="asets/category-2.jpg" />
+                       
+                    </div>
+                </div>
             </div>
         </div>
+
 
 
     );
