@@ -3,17 +3,14 @@ import ReactDOM from 'react-dom/client';
 import Header from './Header';
 import Body from './Body';
 
-
-
-
 const Home = () => {
     return (
         <>
-  
-       <Header/>
-       
-       <Body/>
-       </>
+
+            <Header />
+
+            <Body />
+        </>
     );
 };
 
