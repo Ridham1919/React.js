@@ -13,6 +13,7 @@ const Collection = () => {
                         <Collectioncategory img="asets/product_4.jpg" link="perspiciatis unde" price="$99.25" new="New" sale="ON SALE!!!"/>
                         <Collectioncategory img="asets/product_2.jpg" link="perspiciatis unde" price="$99.25" new="New" sale="ON SALE!!!"/>
                     </div>
+                    
                     <div className="perfume-all-item-top">
                         <Collectioncategory img="asets/product_1.jpg" link="perspiciatis unde" price="$99.25" new="New" sale="ON SALE!!!"/>
                         <Collectioncategory img="asets/product_2.jpg" link="perspiciatis unde" price="$99.25" new="New" sale="ON SALE!!!"/>
