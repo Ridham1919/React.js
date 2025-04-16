@@ -1,4 +1,6 @@
 import React from 'react';
+import { Link } from "react-router-dom";
+
 const Header = () => {
     return (
         <div className="header-main">
@@ -11,10 +13,10 @@ const Header = () => {
             </div>
             <ul>
               <li>
-                <a href="#">home</a>
+                  <Link to="/">Home</Link>
               </li>
               <li>
-                <a href="#category">shop <i style={{color: '#333', marginTop: 12}} className="fa-solid fa-angle-down fa-xs" /></a>
+              <Link to="/shop">Shop<i style={{color: '#333', marginTop: 12, marginLeft:5 }} className="fa-solid fa-angle-down fa-xs" /></Link>
                 <ul className="mega-menu">
                   <li>
                     <h4>fashion</h4>

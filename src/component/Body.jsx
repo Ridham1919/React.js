@@ -11,6 +11,7 @@ import Staticbottom from './Staticbottom';
 import Therdtitle from './Therdtitle';
 import Newproduct from './Newproduct';
 import Fourtitle from './Fourtitle';
+import Brand from './Brand';
 
 const Body = () => {
 
@@ -31,7 +32,8 @@ const Body = () => {
             <Therdtitle/>
             <Newproduct/>
             <Fourtitle/>
-            
+            <Brand/>
+
         </>
 
     )

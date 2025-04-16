@@ -7,7 +7,7 @@ const Fourtitle = () => {
                  <div className="category-container">
                       <div className="main-category-inner">
                           <div className="title">
-                               <strong>shop by category</strong>
+                               <strong>shop by Brands</strong>
                           </div>
                      </div>
                </div>

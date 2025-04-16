@@ -1,7 +1,14 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import Home from './Home';
-import Header from './Header';
+import Header from './component/Header';
+import { BrowserRouter, Route, Routes } from 'react-router-dom';
+import Home from './component/Home';
+import Service from './component/Service'
+import Footer from './component/Footer';
+import Footerend from './component/Footerend';
+import Shop from './Shop-page/Shop';
+
+
 
 
 
@@ -14,9 +21,12 @@ root.render(
                        <Header />
          <Routes>
             <Route path="/" element={<Home />} />
-            <Route path="/about" element={<About />} />
-            <Route path="/contact" element={<Contact />} />
+           <Route path="/shop" element={<Shop/>} /> 
+           
          </Routes>
+         <Service/>
+         <Footer/>
+         <Footerend/>
       </BrowserRouter>
    </>
 
