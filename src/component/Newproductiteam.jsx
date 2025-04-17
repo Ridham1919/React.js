@@ -8,6 +8,7 @@ const Newproductiteam = (props) => {
                 <div className="img">
                     <img src={props.img} alt />
                 </div>
+                
                 <div className="img-text">
                     <a href="#">{props.link}</a>
                     <p>{props.price}</p>
