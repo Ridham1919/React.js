@@ -7,6 +7,7 @@ import Service from './component/Service'
 import Footer from './component/Footer';
 import Footerend from './component/Footerend';
 import Shop from './Shop-page/Shop';
+import Contact from './Contact Page/Contact';
 
 
 
@@ -22,6 +23,7 @@ root.render(
          <Routes>
             <Route path="/" element={<Home />} />
            <Route path="/shop" element={<Shop/>} /> 
+           <Route path="/contact" element={<Contact/>} /> 
            
          </Routes>
          <Service/>

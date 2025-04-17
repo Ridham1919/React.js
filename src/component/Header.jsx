@@ -164,7 +164,7 @@ const Header = () => {
                 <a href="#">sale</a>
               </li>
               <li>
-                <a href="#">contact us</a>
+              <Link to="/contact">Contact Us</Link>
               </li>
             </ul>
             <div className="icon">

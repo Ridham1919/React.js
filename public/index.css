@@ -1512,7 +1512,111 @@ li {
 }
 
 
+/*-----------------------------------Contact-Page-CSS--------------------------------------------------*/
 
+ .container2 { 
+    display: flex;
+    margin-top: 20px;
+    justify-content: space-between;
+ }  
+
+.contact-form {
+    width: 60%;
+    margin-left: 5%;
+    padding-right: 30px;
+}
+
+.store-info {
+    width: 40%;
+    margin-top: 20px;
+    margin-left: 50px;
+    
+}
+
+h1 {
+    font-size: 32px;
+    color: #333;
+    margin-bottom: 30px;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+    color: #333;
+}
+
+.required {
+    color: #ff4757;
+}
+
+input[type="text"],
+input[type="email1"],
+input[type="tel"],
+textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+textarea {
+    height: 150px;
+    resize: vertical;
+}
+
+button {
+    background-color: #ff6b6b;
+    color: white;
+    border: none;
+    padding: 12px 30px;
+    font-size: 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #ff5252;
+}
+
+.info-item {
+    margin-bottom: 15px;
+}
+
+.info-label {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.info-content {
+    color: #666;
+}
+
+.divider {
+    height: 1px;
+    background-color: #eee;
+    margin: 15px 0;
+    width: 100%;
+}
+
+.intro-text {
+    margin-bottom: 25px;
+    color: #555;
+}
 
 
 
