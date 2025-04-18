@@ -177,8 +177,6 @@ li {
 .header-main .navbar .navbar-inner .all-hearder-item>ul>li:hover>.mega-menu>li>.mega-item>li:hover>a {
     color: #f96a6e;
 }
-
-
 .header-main .navbar .navbar-inner .all-hearder-item>ul>li>.mega-menu-two {
     display: none;
     position: absolute;
