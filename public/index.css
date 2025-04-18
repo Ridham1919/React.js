@@ -166,8 +166,6 @@ li {
  .header-main .navbar .navbar-inner .all-hearder-item>ul>li:hover>.mega-menu>li:hover>h4 { 
     color: #f96a6e;
 }
-
-
 .header-main .navbar .navbar-inner .all-hearder-item>ul>li:hover>.mega-menu>li>.mega-item>li>a {
     display: block;
     color: black;
