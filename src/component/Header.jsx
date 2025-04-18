@@ -14,8 +14,7 @@ const Header = () => {
             <ul>
               <li>
                   <Link to="/">Home</Link>
-              </li>
-              
+              </li>         
               <li>
               <Link to="/shop">Shop<i style={{color: '#333', marginTop: 12, marginLeft:5 }} className="fa-solid fa-angle-down fa-xs" /></Link>
                 <ul className="mega-menu">
