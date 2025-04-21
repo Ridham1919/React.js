@@ -13,6 +13,7 @@ const Categoryiteam = (props) => {
                                 </div>
                             </div>
                         </div>
+                        
         </>
         
     )
