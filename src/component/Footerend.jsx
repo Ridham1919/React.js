@@ -8,7 +8,6 @@ const Footerend = () => {
             <div className="footer-end">
                 <div className="container">
                     <div className="footer-end-inner">
-                        
                         <div className="footer-end-item-text">
                             <div className="footer-end-item-text-inner">
                                 <a href="#">© 2025 - Ecommerce software by PrestaShop™ </a>
