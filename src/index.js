@@ -17,14 +17,15 @@ root.render(
       <BrowserRouter>
                        <Header />
          <Routes>
+            
             <Route path="/" element={<Home />} />
            <Route path="/shop" element={<Shop/>} /> 
            <Route path="/contact" element={<Contact/>} /> 
            
          </Routes>
-         <Service/>
-         <Footer/>
-         <Footerend/>
+                        <Service/>
+                        <Footer/>
+                        <Footerend/>
       </BrowserRouter>
    </>
 
