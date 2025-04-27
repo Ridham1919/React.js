@@ -10,9 +10,6 @@ import Shop from './Shop-page/Shop';
 import Contact from './Contact Page/Contact';
 
 
-
-
-
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
 
