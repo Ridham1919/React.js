@@ -6,7 +6,6 @@ const Newproductiteam = (props) => {
         <div className="perfume-item">
             <div className="perfume-item-inner">
                 <div className="img">
-                    
                     <img src={props.img} alt />
                 </div>
                 <div className="img-text">
