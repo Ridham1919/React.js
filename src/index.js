@@ -24,6 +24,7 @@ root.render(
            
          </Routes>
                         <Service/>
+                        
                         <Footer/>
                         <Footerend/>
       </BrowserRouter>
