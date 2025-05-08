@@ -11,6 +11,7 @@ const Newproductiteam = (props) => {
                 <div className="img-text">
                     <a href="#">{props.link}</a>
                     <p>{props.price}</p>
+                    
                     <a id="img-btn" href="#">Add To Cart</a>
                 </div>
                 <div className="label">
