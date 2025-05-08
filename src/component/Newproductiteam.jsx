@@ -19,7 +19,6 @@ const Newproductiteam = (props) => {
                 </div>
             </div>
         </div>
-
     )
 }
 
