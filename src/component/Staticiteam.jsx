@@ -16,8 +16,6 @@ const Staticiteam = (props) => {
             </div>
         </div>
 
-        
-
     )
 }
 
