@@ -14,7 +14,7 @@ const Newproductiteam = (props) => {
                     <a id="img-btn" href="#">Add To Cart</a>
                 </div>
                 <div className="label">
-                    <div className="label1">{props.new} </div>
+                    <div className="label1">{props.} </div>
                     <div className="label2">{props.sale}</div>
                 </div>
             </div>
