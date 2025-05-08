@@ -3,6 +3,7 @@ import React from "react";
 const Staticiteam = (props) => {
 
     return (
+        
         <div className="item">
             <div className="item-inner">
                 <div className="img">
