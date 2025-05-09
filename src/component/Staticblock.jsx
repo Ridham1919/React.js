@@ -4,7 +4,6 @@ import Staticiteam from "./Staticiteam";
 const Staticblock = () => {
 
     return (
-
         <div className="main-static-block">
             <div className="container">
                 <div className="main-static-block-inner">
