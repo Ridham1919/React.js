@@ -3,7 +3,6 @@ import React from "react";
 const Main_banner = () => {
   return (
     <>
-    
       <div className="main-banner">
         <div className="main-banner-container">
           <div className="main-banner-inner">
