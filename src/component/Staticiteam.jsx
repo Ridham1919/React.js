@@ -6,7 +6,8 @@ const Staticiteam = (props) => {
         <div className="item">
             <div className="item-inner">
                 <div className="img">
-                    <img src={props.img} alt />
+                    <img src=
+                    {props.img} alt />
                 </div>
                 <div className="content-img1">
                     <strong>{props.title}</strong>
