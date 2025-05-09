@@ -3,7 +3,6 @@ import Serviceiteam from "./Serviceiteam";
 const Service = () => {
 
     return (
-
         <div className="footer">
             <div className="footer-top-main">
                 <div className="container">
